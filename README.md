@@ -1,2 +1,2 @@
-# custom-components
-custom components workspace with js, html, css
+# Aim
+Here is my custom components workspace with js, html, css without any npm
